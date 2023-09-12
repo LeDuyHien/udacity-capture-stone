@@ -10,10 +10,10 @@ In original project, if we refesh browser, the application will display Login bu
 2. Update UI:
 I enhance todos UI is more beautiful than the original. I learned how to use Gird in sematic ui and change the component.
 
-3. Pagination
+3. Pagination: 
 That the things I learned after study in Udacity course 4, I created page size/limit variable and 2 button: Next and Previous.
 
-4. Refresh page after create new item
+4. Refresh page after create new item: 
 I decide to refresh page after create new todo item in order to update with newest data.
 
 Evidence Image Folder
